@@ -10,4 +10,10 @@ pipelines, and trading workflows across the Wrkstrm ecosystem.
 - **Tooling:** CLIs and automation for research + operations.
 - **Reliability:** correctness, resilience, and reproducible builds.
 
-[Visit Wrkstrm Finance](https://wrkstrm-finance.github.io/documentation/wrkstrm-finance)
+### Repositories
+- **common-broker** — shared broker abstractions + types: <https://github.com/wrkstrm-finance/common-broker>
+- **swift-public-brokerage-lib** — public brokerage integration surface: <https://github.com/wrkstrm-finance/swift-public-brokerage-lib>
+- **swift-tradier-lib** — Tradier API client + models: <https://github.com/wrkstrm-finance/swift-tradier-lib>
+
+### Docs
+DocC site coming soon. For now, start at the GitHub org: <https://github.com/wrkstrm-finance>
