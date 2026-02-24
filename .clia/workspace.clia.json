@@ -1,5 +1,6 @@
 {
   "schemaVersion": "0.5.0",
+  "automationMode": "enabled",
   "turnOperationMode": "autonomous",
   "gitWorkPolicy": {
     "allowMainWork": true,
